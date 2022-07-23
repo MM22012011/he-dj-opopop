@@ -1,0 +1,61 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: red;
+    color: ghostwhite;
+}
+
+.sp-1
+{
+    font-size: 15px;
+    color: ghostwhite;
+}
+
+#speed
+{
+    color: ghostwhite;
+    background-color: red;
+    font-size: 23px;
+    margin: 15px;
+}
+
+#volume
+{
+    color: ghostwhite;
+    background-color: red;
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.disk
+{
+    width: 250px;
+    border-radius: 100px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+    color: ghostwhite;
+    background-color: red;
+}
+
+canvas
+{
+    border: 5px dashed ghostwhite;
+    border-radius: 20;
+    
+}
